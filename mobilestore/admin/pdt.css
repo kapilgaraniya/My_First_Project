@@ -1,0 +1,32 @@
+form{
+    display: grid;
+    place-items: center;
+
+}
+form h1{
+    color: blue;
+    letter-spacing: 1px;
+}
+div{
+    padding: 10px;
+}
+.btn input{
+    color: blue;
+    background-color: black;
+    padding: 10px 20px 10px 20px ;
+    border-radius: 8px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,66 @@
+body{
+    background-color: darkslategrey;
+    
+}
+.massage{
+    margin: 0 10px 0 10px;
+}
+
+form{
+    background-color: gray;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 50px;
+    text-align: center;
+}
+
+form .all{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+}
+
+form b{
+    color: darkblue;
+    letter-spacing: 1px;
+    text-align: center;
+    border-bottom: 1px solid white;
+    font-size: 25px;
+}
+
+.btn{
+    margin-top: 20px;
+}
+
+.btn button{
+	background-color: dodgerblue;
+	font-weight: 550;
+	padding:4px 12px;
+	border:2px solid #000;
+	border-radius: 5px;
+	outline: none;
+	margin-left: 20px;
+ }
+ .btn button:hover{
+    background-color: orangered;
+ }
+
+ .btn button a{
+    color: white;
+ }
+
+ .btn button:last-child{
+	background-color: darkred;
+ }
+ .btn button:last-child:hover{
+    background-color: orangered;
+ }
+
+ .btn button a:last-child{
+    color: white;
+ }
+
+
+

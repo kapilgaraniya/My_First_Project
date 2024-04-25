@@ -1,0 +1,48 @@
+body{
+    background-color: darkslategrey;
+    background-size: cover;
+}
+.wrap form{
+    background-color:lightslategray;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 50px;
+    margin-top: 75px;
+    text-align: center;
+}
+form h1{
+    color: maroon;
+    text-align: center;
+    border-bottom: 2px solid white;
+    letter-spacing: 10px;
+}
+.abc{
+    height: 50px;
+    width: 400px;
+    border-radius: 7px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+.txt{
+    height: 25px;
+    width: 300px;
+    border-radius: 7px;
+    margin-bottom: 20px;
+   
+}
+.btn{
+    margin-top: 10px;
+    padding: 8px 30px;
+    background-color: darkblue;
+    color: whitesmoke;
+    border-radius: 20px;
+    cursor: pointer;
+    border: 3px;
+}
+.btn:hover{
+  
+    background-color: orangered;
+    color: whitesmoke;
+}
+
